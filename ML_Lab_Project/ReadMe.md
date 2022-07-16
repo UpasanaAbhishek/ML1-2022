@@ -2,7 +2,7 @@
 
 
 ### PROBLEM STATEMENT:
-To make a simple auto-correct system by using NLP principles and methods.
+To make a simple auto-correct system by using NLP principles and methods and create an UI for the same using tkinter. 
 
 
 
@@ -56,4 +56,6 @@ NLP is essential for giving computers the ability to comprehend and process natu
 ### REFERENCES:
 1. https://thecleverprogrammer.com/2020/10/04/autocorrect-with-python/
 2. https://www.analyticsvidhya.com/blog/2021/11/autocorrect-feature-using-nlp-in-python/
+3. https://docs.python.org/3/library/tkinter.html
+4. https://www.udemy.com/share/1035TS3@ntW1C_SZYc_wXDM0iMA72yW4v0LweRRiXuJijMaEqdMbBWg2sWNpigTJRvzkkW1o/
 
